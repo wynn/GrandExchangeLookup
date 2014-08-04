@@ -1,0 +1,10 @@
+C:\Users\Wynn\Documents\Visual Studio 2010\Projects\GrandExchangeLookup\GrandExchangeLookup\obj\x86\Debug\GrandExchangeLookup.csprojResolveAssemblyReference.cache
+C:\Users\Wynn\Documents\Visual Studio 2010\Projects\GrandExchangeLookup\GrandExchangeLookup\obj\x86\Debug\GrandExchangeLookup.Form1.resources
+C:\Users\Wynn\Documents\Visual Studio 2010\Projects\GrandExchangeLookup\GrandExchangeLookup\obj\x86\Debug\GrandExchangeLookup.Properties.Resources.resources
+C:\Users\Wynn\Documents\Visual Studio 2010\Projects\GrandExchangeLookup\GrandExchangeLookup\obj\x86\Debug\GrandExchangeLookup.csproj.GenerateResource.Cache
+C:\Users\Wynn\Documents\Visual Studio 2010\Projects\GrandExchangeLookup\GrandExchangeLookup\bin\Debug\GrandExchangeLookup.exe
+C:\Users\Wynn\Documents\Visual Studio 2010\Projects\GrandExchangeLookup\GrandExchangeLookup\bin\Debug\GrandExchangeLookup.pdb
+C:\Users\Wynn\Documents\Visual Studio 2010\Projects\GrandExchangeLookup\GrandExchangeLookup\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Wynn\Documents\Visual Studio 2010\Projects\GrandExchangeLookup\GrandExchangeLookup\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Wynn\Documents\Visual Studio 2010\Projects\GrandExchangeLookup\GrandExchangeLookup\obj\x86\Debug\GrandExchangeLookup.exe
+C:\Users\Wynn\Documents\Visual Studio 2010\Projects\GrandExchangeLookup\GrandExchangeLookup\obj\x86\Debug\GrandExchangeLookup.pdb
